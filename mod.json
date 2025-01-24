@@ -24,7 +24,7 @@
 			"resources/*.wav",
 			"resources/*.md",
 			"resources/*.ini",
-			"resources/translations/langs/*.json"
+			"resources/i18n/langs/*.json"
         ],
 		"sprites": [
 			"resources/sprites/*.png"
