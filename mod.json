@@ -1,5 +1,5 @@
 {
-	"geode": "4.1.0",
+	"geode": "4.1.1",
 	"version": "v1.7.8",
 	"gd": {
 		"win": "2.2074",
@@ -8,13 +8,12 @@
 		"ios": "2.2074"
 	},
 	"early-load": true,
-	"id": "thesillydoggo.qolmod",
-	"name": "QOLMod",
-	"developer": "TheSillyDoggo",
-	"description": "The Best Free Geode Mod Menu!",
+	"id": "usrnmc.xolmenu",
+	"name": "XOLMenu",
+	"developer": "UsernameContent (10x24)",
+	"description": "A free mod menu for Geometry Dash",
 	"links": {
-		"source": "https://github.com/TheSillyDoggo/GeodeMenu",
-		"community": "https://discord.gg/8CFcZNh4CW"
+		"source": "https://github.com/usernamecontent/XOLMenu"
 	},
 	"resources": {
         "files": [
