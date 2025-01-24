@@ -1,4 +1,4 @@
-==Original mod changelog==
+# Original mod changelog
 
 # 1.7.8
 
