@@ -1,3 +1,5 @@
+==Original mod changelog==
+
 # 1.7.8
 
 - Fixed Speedhack being extremely laggy
