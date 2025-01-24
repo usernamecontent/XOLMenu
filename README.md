@@ -5,7 +5,7 @@ A fork of a free mod menu **QOLMod** for [Geode](https://geode-sdk.org) made by 
 If you have any issues with the mod, you can open an issue for help!
 # Why am I forking QOLMod?
 
-- The developer discontinued the mod.
+- The developer discontinued the mod because they didn't want to develop it anymore.
 - The developer also doesn't seem to be nice nor silly...
 
 # How to use
