@@ -21,7 +21,6 @@
 			"resources/*.png",
 			"resources/*.glsl",
 			"resources/*.hlsl",
-			"resources/*.wav",
 			"resources/*.md",
 			"resources/*.ini",
 			"resources/i18n/langs/*.json"
