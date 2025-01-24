@@ -34,15 +34,15 @@ You add the translated text **after** this text.
 **DO NOT MODIFY THE TEXT ON THE LEFT**
 
 ### Crediting yourself
-There is a `contributors` array at the top of the file.
-This is for adding credits to yourself by linking your **gd profile**.
+If you want to credit yourself, there is a `contributors` array at the top of the file. You would only need your username and account ID from your Geometry Dash account.
+
 
 An example credits is this:
 ```json
 "contributors": [
     {
-        "username": "TheSillyDoggo",
-        "account-id": 16778880
+        "username": "10x24",
+        "account-id": 22677866
     }
 ],
 ```
