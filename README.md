@@ -1,6 +1,6 @@
 # XOLMenu
 
-A fork of a free mod menu **QOLMod** for [Geode](https://geode-sdk.org) made by TheSillyDoggo, with **a user friendly interface** and **over 70 features** to help improve your Geometry Dash experience such as **Speedhack, Show Hitboxes, StartPos Switcher, Solid Wave Trail** and **much** more!
+A fork of a free mod menu [QOLMod](https://github.com/TheSillyDoggo/GeodeMenu) for [Geode](https://geode-sdk.org) made by TheSillyDoggo, with **a user friendly interface** and **over 70 features** to help improve your Geometry Dash experience such as **Speedhack, Show Hitboxes, StartPos Switcher, Solid Wave Trail** and **much** more!
 
 If you have any issues with the mod, you can open an issue for help!
 # Why am I forking QOLMod?
