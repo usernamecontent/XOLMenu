@@ -23,7 +23,7 @@
 			"resources/*.hlsl",
 			"resources/*.md",
 			"resources/*.ini",
-			"resources/i18n/langs/*.json"
+			"resources/translations/langs/*.json"
         ],
 		"sprites": [
 			"resources/sprites/*.png"
